@@ -1,6 +1,6 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* keluarga font */
-    font-size: 30px; /* Ukuran font utama pada tag <p></p> */
+    font-size: 20px; /* Ukuran font utama pada tag <p></p> */
     background-color:#D6FF6B; /* Warna latar belakang laman web */
     color: #333333; /* Warna teks */ 
 }
