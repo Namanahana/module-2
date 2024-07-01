@@ -1,17 +1,17 @@
 body {
-    font-family: Arial,  sans-serif; /* keluarga font */
-    font-size: 11px; /* Ukuran font utama pada tag <p></p> */
-    background-color: black; /* Warna latar belakang laman web */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* keluarga font */
+    font-size: 30px; /* Ukuran font utama pada tag <p></p> */
+    background-color:#D6FF6B; /* Warna latar belakang laman web */
     color: #333333; /* Warna teks */ 
 }
 h1 {
-    color: #00a800; /* Warna tajuk (header)*/
-    font-size: 24px; /* Ukuran font tajuk (header) */
-    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    color: #FD98FB; /* Warna tajuk (header)*/
+    font-size: 70px; /* Ukuran font tajuk (header) */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; /* Keluarga font yang digunakan di tajuk (header) */
 }
 
 h2 {
-    color: cyan;
-    font-size: 100px;
+    color: white;
+    font-size: 50px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
